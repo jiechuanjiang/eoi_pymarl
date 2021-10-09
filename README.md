@@ -10,3 +10,9 @@ Two parameters explore_ratio and episode_ratio control the strength of EOI explo
 ## Results
 
 <img src="results.png" alt="EOI" width="500">
+
+|               | 3s_vs_5z | 5m_vs_6m |
+| ------------- | -------- | -------- |
+| explore_ratio | 0.8      | 0.2      |
+
+The agents are more likely to benefit from individualized behaviors if the trajectory is longer.
