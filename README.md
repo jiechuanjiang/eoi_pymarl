@@ -16,4 +16,5 @@ Two parameters explore_ratio and episode_ratio control the strength of EOI explo
 | explore_ratio | 0.2        | 0.8      | 0.2      |
 
 The agents are more likely to benefit from individualized behaviors if the trajectory is longer.
+
 3s_vs_5z and 5m_vs_6m are tested on SC2.4.10, and 2c_vs_64zg are tested on SC2.4.16, since the 2c_vs_64zg on SC2.4.10 is too easy.
