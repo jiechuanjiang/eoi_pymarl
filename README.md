@@ -9,7 +9,7 @@ Two parameters explore_ratio and episode_ratio control the strength of EOI explo
 
 ## Results
 
-<img src="results1.png" alt="EOI" width="500">
+<img src="results1.png" alt="EOI" width="800">
 
 |               | 2c_vs_64zg | 3s_vs_5z | 5m_vs_6m |
 | ------------- | ---------- | -------- | -------- |
